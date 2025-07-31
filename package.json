@@ -1,0 +1,23 @@
+{
+  "name": "week5-chat-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khalipa-B/week5-chat-app.git"
+  },
+  "keywords": [],
+  "author": "Khalipa Baba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khalipa-B/week5-chat-app/issues"
+  },
+  "homepage": "https://github.com/Khalipa-B/week5-chat-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
